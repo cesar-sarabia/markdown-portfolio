@@ -1,5 +1,5 @@
 
-- item repaso
-- item natacion
-- item viajes 
+- item **repaso**
+- item *natación*
+- item _viajes_
 
