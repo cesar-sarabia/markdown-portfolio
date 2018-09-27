@@ -1,5 +1,5 @@
-<ul>
-  <li>repaso programación</li>
-  <li> natación</li>
-  <li> viajes </li>
-</ul>
+
+- item repaso
+- item natacion
+- item viajes 
+
