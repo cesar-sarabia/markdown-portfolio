@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>repaso programación</li>
+  <li> natación</li>
+  <li> viajes </li>
+</ul>
